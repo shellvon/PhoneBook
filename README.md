@@ -3,11 +3,11 @@ PhoneBook by shell-von
 
 ## Intro
 
-һ���ǳ��򵥵ĵ绰���̱�, ����Ӧ����һ���ǳ��Ƚ������ڿ��ٸ��µļ���: Ajax+jsp+js+html+css+MySQL.
+一个非常简单的电话簿教本, 但是应用了一个非常先进并且在快速更新的技术: Ajax+jsp+js+html+css+MySQL.
 
 ## Installation
 
-Դ����ʹ��Eclipse���뼴�ɡ� ���߲���PhoneBook.war����Ӧ��Servelet������
+源代码使用Eclipse导入即可。 或者部署PhoneBook.war到相应的Servelet容器。
 
 ## Copyright
 
